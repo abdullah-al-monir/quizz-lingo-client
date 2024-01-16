@@ -1,9 +1,10 @@
+import MaxWidth from "../../components/MaxWidth";
 
 const AboutUs = () => {
   return (
-    <div>
+    <MaxWidth>
       <p>This is about us page</p>
-    </div>
+    </MaxWidth>
   );
 };
 

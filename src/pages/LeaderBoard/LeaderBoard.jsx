@@ -1,8 +1,10 @@
+import MaxWidth from "../../components/MaxWidth";
+
 const LeaderBoard = () => {
   return (
-    <div>
-      <p>This is leader board page</p>
-    </div>
+    <MaxWidth>
+      <p>Okay</p>
+    </MaxWidth>
   );
 };
 
