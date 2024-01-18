@@ -1,15 +1,45 @@
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import MaxWidth from "../../components/MaxWidth";
-import { useRef, useState } from "react";
+import { useContext, useRef, useState } from "react";
+import useAxiosPublic from "../../hooks/useAxiosPublic";
+import { enqueueSnackbar } from "notistack";
+import { UserAuth } from "../../providers/AuthProvider";
 
 const SignIn = () => {
+  const { setEmail } = useContext(UserAuth);
   const [error, setError] = useState("");
+  const axiosPublic = useAxiosPublic();
   const emailRef = useRef(null);
   const passwordRef = useRef(null);
-  const handleSignIn = () => {
-    const email = emailRef.current.value;
+  const navigate = useNavigate();
+
+  const handleSignIn = (e) => {
+    e.preventDefault();
+    const enteredEmail = emailRef.current.value;
     const password = passwordRef.current.value;
+    axiosPublic
+      .post("/signIn", { email: enteredEmail, password })
+      .then((res) => {
+        setEmail(enteredEmail);
+        const { token } = res.data;
+        localStorage.setItem("token", token);
+        enqueueSnackbar("User signed in successfully", {
+          variant: "success",
+          autoHideDuration: 1000,
+          anchorOrigin: {
+            vertical: "top",
+            horizontal: "center",
+          },
+        });
+        emailRef.current.value = "";
+        passwordRef.current.value = "";
+
+        setError(null);
+        navigate("/");
+      })
+      .catch((error) => console.log(error));
   };
+
   return (
     <MaxWidth>
       <div className="hero min-h-screen max-w-4xl mx-auto">

@@ -1,21 +1,47 @@
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import MaxWidth from "../../components/MaxWidth";
 import { useRef, useState } from "react";
+import useAxiosPublic from "../../hooks/useAxiosPublic";
+import { enqueueSnackbar } from "notistack";
 
 const SignUp = () => {
   const [error, setError] = useState("");
+  const axiosPublic = useAxiosPublic();
   const nameRef = useRef(null);
   const emailRef = useRef(null);
   const passwordRef = useRef(null);
   const photoRef = useRef(null);
-  const handleSignUp = () => {
-    const name = nameRef.current.value;
+  const navigate = useNavigate();
+  const handleSignUp = (e) => {
+    e.preventDefault();
+    const username = nameRef.current.value;
     const email = emailRef.current.value;
     const password = passwordRef.current.value;
-    const photo = photoRef.current.value;
+    const photoURL = photoRef.current.value;
     if (password.length < 6) {
       setError("Password should not less than 6 characters");
     }
+    axiosPublic
+      .post("/users", { username, email, photoURL, password })
+      .then((res) => {
+        const { token } = res.data;
+        localStorage.setItem("token", token);
+        enqueueSnackbar("User signed up successfully", {
+          variant: "success",
+          autoHideDuration: 1000,
+          anchorOrigin: {
+            vertical: "top",
+            horizontal: "center",
+          },
+        });
+        nameRef.current.value = "";
+        emailRef.current.value = "";
+        passwordRef.current.value = "";
+        photoRef.current.value = "";
+        setError(null);
+        navigate("/");
+      })
+      .catch((error) => console.log(error));
   };
   return (
     <MaxWidth>
@@ -78,7 +104,9 @@ const SignUp = () => {
                   className="input input-bordered"
                   required
                 />
-                <label className="label text-sm text-red-600">{error && <p>{error}</p>}</label>
+                <label className="label text-sm text-red-600">
+                  {error && <p>{error}</p>}
+                </label>
                 <label className="label">
                   <p className="">
                     Already have an account?

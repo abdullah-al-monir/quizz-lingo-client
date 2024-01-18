@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "questionText": "What is the opposite of 'happy'?",
+    "options": [
+      "Sad",
+      "Angry",
+      "Excited",
+      "Calm"
+    ],
+    "correctOption": "Sad",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 2,
+    "questionText": "Which color is associated with the sky during the day?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Yellow"
+    ],
+    "correctOption": "Blue",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 3,
+    "questionText": "What is the plural form of 'cat'?",
+    "options": [
+      "Cats",
+      "Cat",
+      "Catis",
+      "Cat's"
+    ],
+    "correctOption": "Cats",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 4,
+    "questionText": "Which day comes after Monday?",
+    "options": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "correctOption": "Tuesday",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 5,
+    "questionText": "What is the capital of the United States?",
+    "options": [
+      "Paris",
+      "London",
+      "Washington D.C.",
+      "New York City"
+    ],
+    "correctOption": "Washington D.C.",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 6,
+    "questionText": "Which fruit is yellow and often peeled before eating?",
+    "options": [
+      "Banana",
+      "Apple",
+      "Grapes",
+      "Orange"
+    ],
+    "correctOption": "Banana",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 7,
+    "questionText": "What is the primary language spoken in Japan?",
+    "options": [
+      "English",
+      "Chinese",
+      "Japanese",
+      "Korean"
+    ],
+    "correctOption": "Japanese",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 8,
+    "questionText": "What is the opposite of 'big'?",
+    "options": [
+      "Small",
+      "Large",
+      "Huge",
+      "Tall"
+    ],
+    "correctOption": "Small",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 9,
+    "questionText": "How many fingers does a typical human have on one hand?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "correctOption": "Five",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 10,
+    "questionText": "Which month comes after March?",
+    "options": [
+      "April",
+      "May",
+      "June",
+      "July"
+    ],
+    "correctOption": "April",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 11,
+    "questionText": "Which word is a pronoun?",
+    "options": [
+      "Book",
+      "She",
+      "Run",
+      "Green"
+    ],
+    "correctOption": "She",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 12,
+    "questionText": "What is the past tense of 'eat'?",
+    "options": [
+      "Eated",
+      "Eaten",
+      "Ate",
+      "Eating"
+    ],
+    "correctOption": "Ate",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 13,
+    "questionText": "Which is a preposition in the following: 'The cat is on the roof.'",
+    "options": [
+      "Cat",
+      "On",
+      "Roof",
+      "Is"
+    ],
+    "correctOption": "On",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 14,
+    "questionText": "What is the opposite of 'fast'?",
+    "options": [
+      "Quick",
+      "Slow",
+      "Rapid",
+      "Swift"
+    ],
+    "correctOption": "Slow",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 15,
+    "questionText": "What do you call a young dog?",
+    "options": [
+      "Kitten",
+      "Cub",
+      "Puppy",
+      "Fawn"
+    ],
+    "correctOption": "Puppy",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 16,
+    "questionText": "What is the color of the sun?",
+    "options": [
+      "Yellow",
+      "Red",
+      "Orange",
+      "Blue"
+    ],
+    "correctOption": "Yellow",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 17,
+    "questionText": "Which continent is known as the 'Land Down Under'?",
+    "options": [
+      "Asia",
+      "Europe",
+      "North America",
+      "Australia"
+    ],
+    "correctOption": "Australia",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 18,
+    "questionText": "What is the opposite of 'loud'?",
+    "options": [
+      "Quiet",
+      "Noisy",
+      "Silent",
+      "Soft"
+    ],
+    "correctOption": "Quiet",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 19,
+    "questionText": "How many legs does a cat have?",
+    "options": [
+      "Two",
+      "Four",
+      "Six",
+      "Eight"
+    ],
+    "correctOption": "Four",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 20,
+    "questionText": "Which season comes after summer?",
+    "options": [
+      "Spring",
+      "Autumn",
+      "Winter",
+      "Fall"
+    ],
+    "correctOption": "Autumn",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 21,
+    "questionText": "What does the phrase 'break a leg' mean?",
+    "options": [
+      "Good luck",
+      "Be careful",
+      "Take a rest",
+      "Dance well"
+    ],
+    "correctOption": "Good luck",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 22,
+    "questionText": "What is the meaning of 'piece of cake'?",
+    "options": [
+      "Easy task",
+      "Difficult task",
+      "Tasty dessert",
+      "Hard work"
+    ],
+    "correctOption": "Easy task",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 23,
+    "questionText": "What does 'hit the hay' mean?",
+    "options": [
+      "Go to bed",
+      "Start exercising",
+      "Eat dinner",
+      "Play a game"
+    ],
+    "correctOption": "Go to bed",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 24,
+    "questionText": "If someone is 'under the weather', what does it mean?",
+    "options": [
+      "Happy",
+      "Sick",
+      "Confused",
+      "Excited"
+    ],
+    "correctOption": "Sick",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 25,
+    "questionText": "What is the meaning of 'bite the bullet'?",
+    "options": [
+      "Face a difficult situation",
+      "Eat something spicy",
+      "Avoid a problem",
+      "Hide from danger"
+    ],
+    "correctOption": "Face a difficult situation",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 26,
+    "questionText": "What does 'cost an arm and a leg' mean?",
+    "options": [
+      "Affordable",
+      "Expensive",
+      "Inexpensive",
+      "Valuable"
+    ],
+    "correctOption": "Expensive",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 27,
+    "questionText": "If someone is 'all ears', what are they?",
+    "options": [
+      "Listening attentively",
+      "Wearing headphones",
+      "Ignoring others",
+      "Talking loudly"
+    ],
+    "correctOption": "Listening attentively",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 28,
+    "questionText": "What does 'hit the nail on the head' mean?",
+    "options": [
+      "Miss the target",
+      "Speak vaguely",
+      "Get something exactly right",
+      "Avoid confrontation"
+    ],
+    "correctOption": "Get something exactly right",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 29,
+    "questionText": "If something is 'a piece of cake', what is it?",
+    "options": [
+      "Difficult",
+      "Easy",
+      "Complicated",
+      "Boring"
+    ],
+    "correctOption": "Easy",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 30,
+    "questionText": "What does 'burn the midnight oil' mean?",
+    "options": [
+      "Wake up early",
+      "Work late into the night",
+      "Go to bed early",
+      "Sleep peacefully"
+    ],
+    "correctOption": "Work late into the night",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 31,
+    "questionText": "What is the synonym for 'ephemeral'?",
+    "options": [
+      "Permanent",
+      "Temporary",
+      "Enduring",
+      "Lasting"
+    ],
+    "correctOption": "Temporary",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 32,
+    "questionText": "What does the word 'ubiquitous' mean?",
+    "options": [
+      "Rare",
+      "Widespread",
+      "Hidden",
+      "Complicated"
+    ],
+    "correctOption": "Widespread",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 33,
+    "questionText": "Define 'querulous'.",
+    "options": [
+      "Complaining",
+      "Confused",
+      "Quiet",
+      "Adventurous"
+    ],
+    "correctOption": "Complaining",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 34,
+    "questionText": "What is the antonym for 'pervasive'?",
+    "options": [
+      "Scarce",
+      "Abundant",
+      "Common",
+      "Plentiful"
+    ],
+    "correctOption": "Scarce",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 35,
+    "questionText": "Define 'innate'.",
+    "options": [
+      "Learned",
+      "Natural",
+      "Artificial",
+      "Acquired"
+    ],
+    "correctOption": "Natural",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 36,
+    "questionText": "What does 'esoteric' mean?",
+    "options": [
+      "Common",
+      "Understood by few",
+      "Public",
+      "Mainstream"
+    ],
+    "correctOption": "Understood by few",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 37,
+    "questionText": "Define 'exacerbate'.",
+    "options": [
+      "Improve",
+      "Worsen",
+      "Solve",
+      "Ignore"
+    ],
+    "correctOption": "Worsen",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 38,
+    "questionText": "What is the synonym for 'ephemeral'?",
+    "options": [
+      "Permanent",
+      "Temporary",
+      "Enduring",
+      "Lasting"
+    ],
+    "correctOption": "Temporary",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 39,
+    "questionText": "What does the word 'ubiquitous' mean?",
+    "options": [
+      "Rare",
+      "Widespread",
+      "Hidden",
+      "Complicated"
+    ],
+    "correctOption": "Widespread",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 40,
+    "questionText": "Define 'querulous'.",
+    "options": [
+      "Complaining",
+      "Confused",
+      "Quiet",
+      "Adventurous"
+    ],
+    "correctOption": "Complaining",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 41,
+    "questionText": "Identify the correct sentence:",
+    "options": [
+      "She don't like coffee.",
+      "He don't like coffee.",
+      "She doesn't like coffee.",
+      "He doesn't like coffee."
+    ],
+    "correctOption": "She doesn't like coffee.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 42,
+    "questionText": "What is the past participle of 'swim'?",
+    "options": [
+      "Swam",
+      "Swum",
+      "Swing",
+      "Swimming"
+    ],
+    "correctOption": "Swum",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 43,
+    "questionText": "Which sentence is in the passive voice?",
+    "options": [
+      "The cat chased the mouse.",
+      "The mouse was chased by the cat.",
+      "The mouse chased the cat.",
+      "The cat was chased by the mouse."
+    ],
+    "correctOption": "The mouse was chased by the cat.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 44,
+    "questionText": "What is the correct use of 'its' and 'it's'?",
+    "options": [
+      "Its raining outside.",
+      "The dog wagged it's tail.",
+      "The sun is in its place.",
+      "It's a beautiful day."
+    ],
+    "correctOption": "The sun is in its place.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 45,
+    "questionText": "Choose the correct relative pronoun:",
+    "options": [
+      "That",
+      "Who",
+      "Whose",
+      "Both A and C"
+    ],
+    "correctOption": "Both A and C",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 46,
+    "questionText": "What is the correct form of the comparative adjective for 'good'?",
+    "options": [
+      "Better",
+      "Gooder",
+      "Best",
+      "Goodest"
+    ],
+    "correctOption": "Better",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 47,
+    "questionText": "Select the proper conjunction:",
+    "options": [
+      "And",
+      "But",
+      "So",
+      "All of the above"
+    ],
+    "correctOption": "All of the above",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 48,
+    "questionText": "Choose the correct sentence with a gerund:",
+    "options": [
+      "He enjoys to read.",
+      "He enjoys reading.",
+      "He enjoys read.",
+      "He enjoys reads."
+    ],
+    "correctOption": "He enjoys reading.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 49,
+    "questionText": "What is the correct past tense of 'go'?",
+    "options": [
+      "Went",
+      "Goed",
+      "Gone",
+      "Going"
+    ],
+    "correctOption": "Went",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 50,
+    "questionText": "Identify the correct sentence with a dangling modifier:",
+    "options": [
+      "After eating the pizza, the movie was watched.",
+      "After eating the pizza, we watched the movie.",
+      "The movie was watched after eating the pizza.",
+      "Both B and C"
+    ],
+    "correctOption": "After eating the pizza, the movie was watched.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 51,
+    "questionText": "Which planet is known as the 'Red Planet'?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "correctOption": "Mars",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 52,
+    "questionText": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "correctOption": "William Shakespeare",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 53,
+    "questionText": "What is the largest mammal in the world?",
+    "options": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correctOption": "Blue Whale",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 54,
+    "questionText": "Which mountain is the highest in the world?",
+    "options": [
+      "K2",
+      "Mount Everest",
+      "Kangchenjunga",
+      "Makalu"
+    ],
+    "correctOption": "Mount Everest",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 55,
+    "questionText": "In which year did the Titanic sink?",
+    "options": [
+      "1910",
+      "1912",
+      "1915",
+      "1920"
+    ],
+    "correctOption": "1912",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 56,
+    "questionText": "Who painted the Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Claude Monet"
+    ],
+    "correctOption": "Leonardo da Vinci",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 57,
+    "questionText": "What is the currency of Japan?",
+    "options": [
+      "Yuan",
+      "Yen",
+      "Rupee",
+      "Euro"
+    ],
+    "correctOption": "Yen",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 58,
+    "questionText": "Which element has the chemical symbol 'Fe'?",
+    "options": [
+      "Iron",
+      "Gold",
+      "Silver",
+      "Copper"
+    ],
+    "correctOption": "Iron",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 59,
+    "questionText": "Who is known as the 'Father of Computers'?",
+    "options": [
+      "Alan Turing",
+      "Charles Babbage",
+      "Ada Lovelace",
+      "Bill Gates"
+    ],
+    "correctOption": "Charles Babbage",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 60,
+    "questionText": "What is the capital of Brazil?",
+    "options": [
+      "Buenos Aires",
+      "Rio de Janeiro",
+      "Brasília",
+      "São Paulo"
+    ],
+    "correctOption": "Brasília",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 71,
+    "questionText": "What is the correct conjugation of the verb 'to be' in the subjunctive mood?",
+    "options": [
+      "I am",
+      "You be",
+      "He/She/It is",
+      "We are"
+    ],
+    "correctOption": "You be",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 72,
+    "questionText": "Identify the correct use of the gerund:",
+    "options": [
+      "She enjoys to sing.",
+      "She enjoys singing.",
+      "She enjoys sing.",
+      "She enjoys sings."
+    ],
+    "correctOption": "She enjoys singing.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 73,
+    "questionText": "Choose the correct sentence with a complex sentence structure:",
+    "options": [
+      "He went to the store.",
+      "While he was at the store, he bought groceries.",
+      "He and she went to the park.",
+      "She gave him the book."
+    ],
+    "correctOption": "While he was at the store, he bought groceries.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 74,
+    "questionText": "What is the correct translation for 'Bonjour' in English?",
+    "options": [
+      "Goodbye",
+      "Hello",
+      "Thank you",
+      "Excuse me"
+    ],
+    "correctOption": "Hello",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 75,
+    "questionText": "Identify the correct form of the past perfect tense:",
+    "options": [
+      "He has eaten lunch.",
+      "He ate lunch.",
+      "He eats lunch.",
+      "He will eat lunch."
+    ],
+    "correctOption": "He had eaten lunch.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 76,
+    "questionText": "What is the correct plural form of 'phenomenon'?",
+    "options": [
+      "Phenomenas",
+      "Phenomenos",
+      "Phenomena",
+      "Phenomeni"
+    ],
+    "correctOption": "Phenomena",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 77,
+    "questionText": "Choose the correct translation for 'au revoir' in English:",
+    "options": [
+      "Goodbye",
+      "Hello",
+      "Thank you",
+      "Excuse me"
+    ],
+    "correctOption": "Goodbye",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 78,
+    "questionText": "Identify the correct use of the conditional mood:",
+    "options": [
+      "If I will go, I'll call you.",
+      "If I go, I'll call you.",
+      "If I go, I would call you.",
+      "If I'll go, I'll call you."
+    ],
+    "correctOption": "If I go, I'll call you.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 79,
+    "questionText": "What is the correct translation for 'merci beaucoup' in English?",
+    "options": [
+      "Thank you very much",
+      "Excuse me",
+      "Hello",
+      "Goodbye"
+    ],
+    "correctOption": "Thank you very much",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 80,
+    "questionText": "Identify the correct use of the subjunctive mood:",
+    "options": [
+      "If I was you, I would go.",
+      "If I were you, I would go.",
+      "If I am you, I would go.",
+      "If I be you, I would go."
+    ],
+    "correctOption": "If I were you, I would go.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 81,
+    "questionText": "Identify the correct use of the participle phrase:",
+    "options": [
+      "The cat, sleeping soundly, curled up on the windowsill.",
+      "The cat curled up on the windowsill, sleepy.",
+      "The cat curled up on the windowsill, sleeps soundly.",
+      "The cat curled up on the windowsill, sleepily."
+    ],
+    "correctOption": "The cat, sleeping soundly, curled up on the windowsill.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 82,
+    "questionText": "What is the correct translation for 'Hasta luego' in English?",
+    "options": [
+      "See you later",
+      "Good morning",
+      "How are you",
+      "I love you"
+    ],
+    "correctOption": "See you later",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 83,
+    "questionText": "Identify the correct use of the conditional perfect tense:",
+    "options": [
+      "I will have finished my work by 5 PM.",
+      "I finished my work yesterday.",
+      "I finish my work every day.",
+      "I am finishing my work now."
+    ],
+    "correctOption": "I will have finished my work by 5 PM.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 84,
+    "questionText": "Choose the correct translation for 'je suis excité' in English:",
+    "options": [
+      "I am excited",
+      "I am sad",
+      "I am hungry",
+      "I am tired"
+    ],
+    "correctOption": "I am excited",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 85,
+    "questionText": "Identify the correct use of the infinitive phrase:",
+    "options": [
+      "She decided to paint the room a vibrant color.",
+      "She painted the room with vibrant colors.",
+      "She is painting the room vibrantly.",
+      "She painted the room vibrantly."
+    ],
+    "correctOption": "She decided to paint the room a vibrant color.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 86,
+    "questionText": "What is the correct plural form of 'cactus'?",
+    "options": [
+      "Cactuses",
+      "Cacti",
+      "Cactus",
+      "Cacte"
+    ],
+    "correctOption": "Cacti",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 87,
+    "questionText": "Choose the correct translation for 'Ich liebe dich' in English:",
+    "options": [
+      "I like you",
+      "I miss you",
+      "I hate you",
+      "I love you"
+    ],
+    "correctOption": "I love you",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 88,
+    "questionText": "Identify the correct use of the relative clause:",
+    "options": [
+      "The girl who won the race is my friend.",
+      "The girl is my friend who won the race.",
+      "The girl won the race who is my friend.",
+      "The girl won the race is my friend."
+    ],
+    "correctOption": "The girl who won the race is my friend.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 89,
+    "questionText": "What is the correct translation for 'por favor' in English?",
+    "options": [
+      "Please",
+      "Thank you",
+      "Excuse me",
+      "Sorry"
+    ],
+    "correctOption": "Please",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 90,
+    "questionText": "Identify the correct use of the imperative mood:",
+    "options": [
+      "Please, pass the salt.",
+      "Passing the salt, please.",
+      "Passed the salt, please.",
+      "Pass the salt, please."
+    ],
+    "correctOption": "Pass the salt, please.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 91,
+    "questionText": "Identify the correct use of the conditional perfect subjunctive mood:",
+    "options": [
+      "If I would have known, I would have come.",
+      "If I know, I will come.",
+      "If I knew, I would come.",
+      "If I had known, I would have come."
+    ],
+    "correctOption": "If I had known, I would have come.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 92,
+    "questionText": "What is the correct translation for 'aujourd'hui' in English?",
+    "options": [
+      "Yesterday",
+      "Tomorrow",
+      "Today",
+      "Now"
+    ],
+    "correctOption": "Today",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 93,
+    "questionText": "Identify the correct use of the future perfect tense:",
+    "options": [
+      "I will finish my work by 5 PM.",
+      "I finish my work every day.",
+      "I am finishing my work now.",
+      "I will have finished my work by 5 PM."
+    ],
+    "correctOption": "I will have finished my work by 5 PM.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 94,
+    "questionText": "Choose the correct translation for 'somnambule' in English:",
+    "options": [
+      "Sleepwalker",
+      "Daydreamer",
+      "Nightmare",
+      "Insomniac"
+    ],
+    "correctOption": "Sleepwalker",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 95,
+    "questionText": "Identify the correct use of the conditional perfect progressive tense:",
+    "options": [
+      "I will have been studying for hours.",
+      "I will be studying for hours.",
+      "I will study for hours.",
+      "I will have studied for hours."
+    ],
+    "correctOption": "I will have been studying for hours.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 96,
+    "questionText": "What is the correct plural form of 'datum'?",
+    "options": [
+      "Data",
+      "Datas",
+      "Datums",
+      "Datae"
+    ],
+    "correctOption": "Data",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 97,
+    "questionText": "Choose the correct translation for 'c'est la vie' in English:",
+    "options": [
+      "It's life",
+      "That's life",
+      "This is life",
+      "Life is good"
+    ],
+    "correctOption": "That's life",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 98,
+    "questionText": "Identify the correct use of the reflexive pronoun:",
+    "options": [
+      "He bought himself a new car.",
+      "He bought him a new car.",
+      "He bought hisself a new car.",
+      "He bought a new car for himself."
+    ],
+    "correctOption": "He bought himself a new car.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 99,
+    "questionText": "What is the correct translation for 's'il vous plaît' in English?",
+    "options": [
+      "Excuse me",
+      "Thank you",
+      "Please",
+      "I'm sorry"
+    ],
+    "correctOption": "Please",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 100,
+    "questionText": "Identify the correct use of the conditional perfect passive voice:",
+    "options": [
+      "The book will have been read by many.",
+      "Many will read the book.",
+      "The book will be read by many.",
+      "Many will be reading the book."
+    ],
+    "correctOption": "The book will have been read by many.",
+    "difficulty": "Advanced"
+  }
+]
